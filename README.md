@@ -8,6 +8,9 @@ This project is a simple chatbot application that leverages OpenAI's ChatGPT API
 - **Powered by ChatGPT**: Utilizes OpenAI's ChatGPT API for generating responses.
 - **Customizable**: Easily extendable to include additional features or integrate with other APIs.
 
+## Preview
+![Chatbot Animation](Animation.gif)
+
 ## Project Structure
 ```
 Basic-Chatbot-ChatGPT/
@@ -66,3 +69,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ---
 
 Enjoy building and chatting with your bot!
+
+## Additional Assets
+### Node.js Server Response
+![Node Response](node-response.png)
